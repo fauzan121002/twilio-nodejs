@@ -1,8 +1,16 @@
 # Twilio Boilerplate for Nodejs
 
-1. clone or download this repo
-2. npm install
-3. register your twilio
-4. edit index.js with your own credentials to use the API
-5. run the twilio boilerplate!
+## Usage
 
+**1. Clone (or download) this repository.**
+```bash
+git clone https://github.com/fauzan121002/twilio-nodejs.git
+npm install
+```
+
+**2. Register for Account in Twilio **
+**3. Edit the index.js file with your own credentials **
+**4. Run the twilio boilerplate.**
+```bash
+node index.js
+```
